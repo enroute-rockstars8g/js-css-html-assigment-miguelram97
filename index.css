@@ -1,0 +1,29 @@
+body{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Verdana';
+}
+
+#nombre{
+    font-size: 190%;
+    font-weight: bold;
+    margin: 1%;
+}
+
+#hist{
+    margin: 2%;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: justify;
+}
+
+img {
+    width: 20%;
+    margin: 1%;
+}
+
+#fibo{
+    margin: 3%;
+}
